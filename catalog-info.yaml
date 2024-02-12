@@ -5,6 +5,6 @@ metadata:
   annotations:
     github.com/project-slug: sandip444/ecommerce
 spec:
-  type: other
+  type: expermental
   lifecycle: unknown
   owner: sandip
