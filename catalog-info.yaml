@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: ecommerce
+  annotations:
+    github.com/project-slug: sandip444/ecommerce
+spec:
+  type: other
+  lifecycle: unknown
+  owner: sandip
