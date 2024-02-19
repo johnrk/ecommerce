@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: ecommerce
+  name: sandip-test-repo
   annotations:
     github.com/project-slug: sandip444/ecommerce
 spec:
