@@ -6,5 +6,4 @@ metadata:
     github.com/project-slug: sandip444/ecommerce
 spec:
   type: openapi
-  definition:
-    $test: './catalog-info.json'
+
