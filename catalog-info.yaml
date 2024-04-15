@@ -9,4 +9,4 @@ spec:
   lifecycle: production
   owner: sandip
   definition:
-    $json: https://github.com/sandip444/ecommerce/catalog-info.json
+    $json: ./catalog-info.json
