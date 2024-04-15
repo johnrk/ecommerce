@@ -7,4 +7,4 @@ metadata:
 spec:
   type: openapi
   definition:
-    $json: './catalog-info.json'
+    $test: './catalog-info.json'
