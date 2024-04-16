@@ -9,5 +9,5 @@ spec:
   lifecycle: production
   owner: artist-relations-team
   definition:
-    $json: './catalog-info.json'
+    $json: 'catalog-info.json'
 
