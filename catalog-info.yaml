@@ -8,4 +8,6 @@ spec:
   type: openapi
   lifecycle: production
   owner: artist-relations-team
+  definition:
+    $json: './catalog-info.json'
 
