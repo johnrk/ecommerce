@@ -9,5 +9,5 @@ spec:
   lifecycle: production
   owner: artist-relations-team
   definition:
-    $json: 'package.json'
+    $text: 'package.json'
 
