@@ -1,13 +1,11 @@
 apiVersion: backstage.io/v1alpha1
-kind: API
+kind: Component
 metadata:
-  name: azure-test-repo
+  name: git-test-repo
   annotations:
     github.com/project-slug: sandip444/ecommerce
 spec:
   type: openapi
   lifecycle: production
   owner: artist-relations-team
-  definition:
-    $text: 'package.json'
 
