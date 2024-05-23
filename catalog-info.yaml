@@ -5,5 +5,5 @@ metadata:
 spec:
   type: openapi
   lifecycle: production
-  owner: artist-relations-team
+  owner: artist-relations-tea
 
