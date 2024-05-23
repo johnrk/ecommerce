@@ -2,8 +2,6 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: git-test-repo
-  annotations:
-    github.com/project-slug: sandip444/ecommerce
 spec:
   type: openapi
   lifecycle: production
